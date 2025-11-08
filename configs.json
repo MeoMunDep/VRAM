@@ -1,8 +1,10 @@
 {
   "delayEachAccounts": [10, 30],
   "loopEachAccounts": [10, 30],
+  "timeToRestartAllAccounts": 86400,
 
   "MIN_VRAM_BALANCE": 1000000000,
   "GAS_BUDGET": 10000000,
-  "MARKETS": {}
+  "MARKETS": {},
+  "TOKENS": {}
 }
