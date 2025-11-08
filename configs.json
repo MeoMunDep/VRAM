@@ -1,1 +1,3 @@
-{}
+{
+  "delayEachAccounts": [1, 3]
+}
