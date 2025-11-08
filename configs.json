@@ -4,6 +4,10 @@
   "timeToRestartAllAccounts": 86400,
 
   "sellAllTokensToVRAM": true,
+  "chatWithAgent": {
+    "enabled": true,
+    "amount": [10, 20]
+  },
 
   "MIN_VRAM_BALANCE": 1000000000,
   "GAS_BUDGET": 10000000,
