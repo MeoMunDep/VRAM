@@ -4,7 +4,7 @@
   "timeToRestartAllAccounts": 86400,
 
   "createAgent": {
-    "enabled": true,
+    "enabled": false,
     "requiredVram": 400000000,
     "devTokenAmount": 1000,
     "amount": [1, 2]
@@ -24,10 +24,7 @@
 
   "MIN_VRAM_BALANCE": 1000000000,
   "GAS_BUDGET": 10000000,
-  "MARKETS": {
-    "THUN48DER": "0x5fae706e02c85cbab63a0cd39c255f42944bc587154d4fd63e926cbdf3319df5::thun48der::THUN48DER",
-    "DFYHHGGHHGFY": "0xc45f14ed870a840d650def2c67f8fa438084da53b5d79c4f1e7c2f14b822f280::dfyhhgghhgfy::DFYHHGGHHGFY"
-  },
+
   "TOKENS": {
     "THUN48DER": "0x5fae706e02c85cbab63a0cd39c255f42944bc587154d4fd63e926cbdf3319df5::thun48der::THUN48DER",
     "DFYHHGGHHGFY": "0xc45f14ed870a840d650def2c67f8fa438084da53b5d79c4f1e7c2f14b822f280::dfyhhgghhgfy::DFYHHGGHHGFY"
