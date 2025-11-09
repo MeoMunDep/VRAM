@@ -5,7 +5,7 @@
 
   "createAgent": {
     "enabled": true,
-    "requiredVram": 1000000000,
+    "requiredVram": 400000000,
     "devTokenAmount": 1000,
     "amount": [1, 2]
   },
