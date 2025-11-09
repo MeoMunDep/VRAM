@@ -4,7 +4,7 @@
   "timeToRestartAllAccounts": 86400,
 
   "createAgent": {
-    "enabled": false,
+    "enabled": true,
     "requiredVram": 1000000000,
     "devTokenAmount": 1000,
     "amount": [1, 2]
