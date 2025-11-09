@@ -3,6 +3,12 @@
   "loopEachWallets": [10, 30],
   "timeToRestartAllAccounts": 86400,
 
+  "createAgent": {
+    "enabled": false,
+    "requiredVram": 1000000000,
+    "devTokenAmount": 1000,
+    "amount": [1, 2]
+  },
   "buyTokens": {
     "enabled": true
   },
