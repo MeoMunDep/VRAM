@@ -3,6 +3,13 @@
   "loopEachWallets": [10, 30],
   "timeToRestartAllAccounts": 86400,
 
+  "buyTokens": {
+    "enabled": true
+  },
+  "sellTokens": {
+    "enabled": true
+  },
+
   "sellAllTokensToVRAM": true,
   "chatWithAgent": {
     "enabled": true,
